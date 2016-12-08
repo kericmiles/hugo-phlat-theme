@@ -1,5 +1,5 @@
 body {
-    background-color: #f2f2f2;
+    background-color: #333333;
     padding-top: 100px;
 }
 
@@ -7,19 +7,19 @@ body {
  * START NAVIGATION
  */
 .navbar-default {
-    background-color: #ffffff;
+    background-color: #006600;
     padding: 15px 0;
     text-transform: uppercase;
 }
 
 .navbar-default .navbar-brand {
-    color: #555555;
+    color: #ffffff;
     font-weight: 700;
     font-size: 22px;
 }
 
 .nav>li:hover {
-    border-top: 4px solid #cc4444;
+    border-top: 4px solid #ffffff;
 }
 
 .nav>li {
@@ -29,7 +29,7 @@ body {
 }
 
 .nav>li.active {
-    border-top: 4px solid #cc4444;
+    border-top: 4px solid #ffffff;
 }
 
 .navbar-nav>li>a {
@@ -41,7 +41,7 @@ body {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
-    color: #555555;
+    color: #ffffff;
 }
 /*
  * END NAVIGATION

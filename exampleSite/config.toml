@@ -24,9 +24,9 @@ theme                   = "hugo-phlat-theme"
 
 # The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
 [[menu.footer]]
-    name                = "Privacy Policy"
+    name                = "About"
     weight              = 1
-    url                 = "/privacy-policy/"
+    url                 = "/about/"
 
 [params]
     keywords            = ["default", "keywords", "if", "no", "front", "matter"]
@@ -41,11 +41,11 @@ theme                   = "hugo-phlat-theme"
 
 # Social media icons and links that appear in the footer
 [social]
-    twitter             = "https://www.twitter.com/NAME_HERE"
-    googleplus          = "https://plus.google.com/NAME_HERE"
-    linkedin            = "https://www.linkedin.com/in/NAME_HERE"
-    youtube             = "https://www.youtube.com/users/NAME_HERE"
-    paypal              = "https://paypal.me/NAME_HERE"
+    twitter             = "https://www.twitter.com/kericmiles"
+    googleplus          = ""
+    linkedin            = "https://www.linkedin.com/in/kericmiles"
+    youtube             = ""
+    paypal              = ""
     instagram           = ""
     reddit              = ""
     email               = ""
